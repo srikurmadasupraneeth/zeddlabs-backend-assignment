@@ -16,14 +16,14 @@ This repository contains a modular Node.js backend service built for the Zedd La
 ---
 
 ## Setup & Installation
--- Clone the Repository
+-- **Clone the Repository**
    git clone https://github.com/srikurmadasupraneeth/zeddlabs-backend-assignment.git
--- Install the necessary things
+-- **Install the necessary things**
    npm install
--- start the server
+-- **start the server**
    cd backend - node index.js 
    server will be running at http://localhost:4000
--- Running Tests
+-- **Running Tests**
    npm test 
    <img width="925" height="305" alt="Screenshot 2025-12-23 081132" src="https://github.com/user-attachments/assets/819bdd5d-8161-4c07-a110-62b4d7ca9301" />
 
